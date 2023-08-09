@@ -1,3 +1,3 @@
 # Laravel 10 
 
-## Learning
+## 😁Lets begin the journey to learn something new😁
